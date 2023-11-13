@@ -17,3 +17,6 @@ Password : `admin`
 [Ticketing Web](https://keeperflint-lprxhb--103201478711144.stormkit.dev) - `Please be aware that the URL is subject to modification based on any subsequent changes.`
 ## Front-end Hosting Used
 `Stormkit`
+
+## Error Encounter During Testing
+Error Blocked by Client - Resolution: Deactivate ad-blocking plugin Check more details at `https://community.klaviyo.com/developer-group-64/can-anyone-help-me-understand-what-net-err-blocked-by-client-in-chrome-dev-tools-console-when-loading-pages-means-3612`
