@@ -14,7 +14,7 @@ run `php spark db:seed AddDefaultAccountSeeder` - will create default `admin acc
 Email : `admin@gmail.com`
 Password : `admin`
 ## Access the Ticketing Website
-[Ticketing Web](https://keeperflint-lprxhb--103201478711144.stormkit.dev) - `Please be aware that the URL is subject to modification based on any subsequent changes.`
+[Ticketing Web](https://ticketing_web_app.stormkit.dev) - `Please be aware that the URL is subject to modification based on any subsequent changes.`
 ## Front-end Hosting Used
 `Stormkit`
 
